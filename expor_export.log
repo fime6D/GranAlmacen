@@ -1,0 +1,20 @@
+Exportando paquete a 'C:\Users\Poncho\Documents\fime\6 D\ing en software\documentacion EA\expor.xml'
+Retrieving data for export: diagram elements
+Retrieving data for export: links
+Retrieving data for export: constraints
+Retrieving data for export: attribute tagged values
+Retrieving data for export: operation tagged values
+Retrieving data for export: operation parameter tagged values
+Retrieving data for export: connector tagged values
+Completed data retrieval
+Pre-processing export tree...
+Completed pre-processing
+Processing package: Modelo de diseño
+Element:0: conceptos
+Element:1: Proveedores
+Element:2: Productos
+Element:3: DestinosSalida
+Element:4: unidades
+Diagram: Modelo de diseño
+Dando formato XML a la salida...por favor espere
+¡Exportación del documento XMI completa!

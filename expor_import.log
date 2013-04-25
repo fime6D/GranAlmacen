@@ -1,0 +1,21 @@
+
+Importando Modelo desde XMI
+Root Package: Modelo de diseño
+Add Classifier: conceptos
+Add Classifier: Proveedores
+Add Classifier: Productos
+Add Classifier: DestinosSalida
+Add Classifier: unidades
+Resolving Classifiers
+Resolving Owners
+Resolve Package Links
+Add Extensions
+Add Diagrams
+Adding Diagram : Modelo de diseño
+Resolving DiagramIDs
+Resolving Association Classes
+Resolving Parameter Types
+Resolving Attribute Types
+Resolving Note links
+Proveer las referencias externas
+¡Importación completa!
